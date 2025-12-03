@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ext_image>
+    <type>animation</type>
+    <width>192</width>
+    <height>176</height>
+    <animation>
+        <anim_seq_list>
+            <anim_seq>
+                <seq_base>continuation</seq_base>
+                <seq_images>resources\images\sequences\album\album_cover_###.jpg</seq_images>
+            </anim_seq>
+        </anim_seq_list>
+        <rev_flow>true</rev_flow>
+        <preload_next_frame>true</preload_next_frame>
+        <block_size>16</block_size>
+        <output_type>direct_jpeg</output_type>
+    </animation>
+</ext_image>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ext_image>
+    <type>custom_storage</type>
+    <width>576</width>
+    <height>320</height>
+    <custom_storage>
+        <preallocate_address_count>2</preallocate_address_count>
+        <preallocate_address_1>true</preallocate_address_1>
+        <preallocate_address_1_val>1088421888</preallocate_address_1_val>
+        <preallocate_address_2>true</preallocate_address_2>
+        <preallocate_address_2_val>1089470464</preallocate_address_2_val>
+        <pixel_format>argb8888</pixel_format>
+    </custom_storage>
+</ext_image>
