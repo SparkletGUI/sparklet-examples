@@ -36,7 +36,7 @@ Inside Flint:
 - Import them into your embedded IDE.
 
 
-The following screenshot shows the main UI of the coffee maker demo:
+The following screenshot shows the main UI of the cluster demo:
 
 ![Digital Cluster](./resources/images/main_bg.png)
 
