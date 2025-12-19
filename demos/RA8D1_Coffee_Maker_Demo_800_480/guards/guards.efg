@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flint_guards>
+    <guard_info>
+        <name>cup selection 2</name>
+        <id>cup_selection_2</id>
+        <condition_group>
+            <mode>group_and</mode>
+            <condition>
+                <mode>equals</mode>
+                <operand_1>
+                    <type>data</type>
+                    <value>di.default_data.current_menu</value>
+                </operand_1>
+                <operand_2>
+                    <type>constant</type>
+                    <value>2</value>
+                </operand_2>
+            </condition>
+        </condition_group>
+    </guard_info>
+    <guard_info>
+        <name>Cup Selection 1</name>
+        <id>cup_selection_1</id>
+        <condition_group>
+            <mode>group_and</mode>
+            <condition>
+                <mode>equals</mode>
+                <operand_1>
+                    <type>data</type>
+                    <value>di.default_data.current_menu</value>
+                </operand_1>
+                <operand_2>
+                    <type>constant</type>
+                    <value>1</value>
+                </operand_2>
+            </condition>
+        </condition_group>
+    </guard_info>
+    <guard_info>
+        <name>Coffee Range1</name>
+        <id>coffee_range1</id>
+        <condition_group>
+            <mode>group_and</mode>
+            <condition>
+                <mode>equals</mode>
+                <operand_1>
+                    <type>data</type>
+                    <value>di.default_data.current_menu</value>
+                </operand_1>
+                <operand_2>
+                    <type>constant</type>
+                    <value>31</value>
+                </operand_2>
+            </condition>
+        </condition_group>
+    </guard_info>
+    <guard_info>
+        <name>Coffee Range2</name>
+        <id>coffee_range2</id>
+        <condition_group>
+            <mode>group_and</mode>
+            <condition>
+                <mode>equals</mode>
+                <operand_1>
+                    <type>data</type>
+                    <value>di.default_data.current_menu</value>
+                </operand_1>
+                <operand_2>
+                    <type>constant</type>
+                    <value>32</value>
+                </operand_2>
+            </condition>
+        </condition_group>
+    </guard_info>
+</flint_guards>
