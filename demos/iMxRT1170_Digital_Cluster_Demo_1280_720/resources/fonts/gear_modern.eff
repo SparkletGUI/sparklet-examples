@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sparklet_font_info>
+    <font_type>anti_aliased</font_type>
+    <font_chars>alphanumeric</font_chars>
+    <font_size>80</font_size>
+    <font_min_width>0</font_min_width>
+    <font_name>Crique Grotesk Medium</font_name>
+    <font_style>80</font_style>
+    <font_custom_chars/>
+    <font_images/>
+<font_storage>internal_flash_block</font_storage></sparklet_font_info>
