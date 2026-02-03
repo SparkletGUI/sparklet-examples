@@ -12,6 +12,7 @@ This repository provides ready-to-use UI demo projects and resources to help dev
 | Coffee Maker                      | Renesas RA8D1  | Coffee Maker UI Demo              | [View README](./demos/RA8D1_Coffee_Maker_Demo_800_480/README.md)            |
 | Digital Instrument Cluster        | NXP iMxRT1170  | Digital cluster UI demo           | [View README](./demos/iMxRT1170_Digital_Cluster_Demo_1280_720/README.md)    |
 | Solar Panel Monitoring System     | Renesas RA8D1  | Solar Panel Monitoring System demo| [View README](./demos/RA8D1_Solar_Panel_Monitoring_System_480_854/README.md)|
+| 3D Printer                        | Renesas RA8D1  | 3D Printer UI demo                | [View README](./demos/RA8D1_3D_Printer_UI_480_854/README.md)                |
 
 
 2. Useful Links
