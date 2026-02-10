@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sparklet_font_info>
+<font_type>anti_aliased</font_type>
+<font_size_type>default_size</font_size_type>
+<font_chars>alphanumeric</font_chars>
+<font_size>90</font_size>
+<font_min_width>0</font_min_width>
+<font_ascent_value>88</font_ascent_value>
+<font_descent_value>2</font_descent_value>
+<font_name>Montserrat</font_name>
+<font_style>10</font_style>
+<font_custom_kern>false</font_custom_kern>
+<font_custom_chars/>
+<font_rle_conv>false</font_rle_conv>
+<font_images>
+<font_default_kern_val>0</font_default_kern_val>
+</font_images>
+<font_storage>int_flash_block_1</font_storage>
+</sparklet_font_info>
