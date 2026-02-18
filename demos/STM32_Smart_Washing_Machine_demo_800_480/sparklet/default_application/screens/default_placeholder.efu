@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ui_placeholder>
+<placeholder_list>
+<placeholder>
+<name>main_app_holder</name>
+<holder_id>main_app_holder</holder_id>
+<x>0</x>
+<y>0</y>
+<width>800</width>
+<height>480</height>
+<parent_view>default_application.window</parent_view>
+<placeholder_list>
+<view>
+<id>sparklet_view_1.fv_main_screen</id>
+<guard>invalid_to_do</guard>
+<layer_map_list/>
+</view>
+</placeholder_list>
+<sm_inst_list/>
+</placeholder>
+</placeholder_list>
+</ui_placeholder>

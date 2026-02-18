@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flint_guards>
+<guard_info>
+<name>Trip C Reset Status</name>
+<id>trip_c_reset_status</id>
+<condition_group>
+<mode>group_and</mode>
+<condition>
+<mode>equals</mode>
+<operand_1>
+<type>data</type>
+<value>di.default_data.start_data</value>
+</operand_1>
+<operand_2>
+<type>constant</type>
+<value>1</value>
+</operand_2>
+</condition>
+</condition_group>
+</guard_info>
+</flint_guards>

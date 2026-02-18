@@ -14,6 +14,8 @@ This repository provides ready-to-use UI demo projects and resources to help dev
 | Solar Panel Monitoring System     | Renesas RA8D1  | Solar Panel Monitoring System demo| [View README](./demos/RA8D1_Solar_Panel_Monitoring_System_480_854/README.md)|
 | 3D Printer                        | Renesas RA8D1  | 3D Printer UI demo                | [View README](./demos/RA8D1_3D_Printer_UI_480_854/README.md)                |
 | Smart Thermostat                  | STM32          | Smart Thermostat demo             | [View README](./demos/STM32_Smart_Thermostat_demo_800_480/README.md)        |
+| Smart Washing Machine             | STM32          | Smart Washing Machine demo        | [View README](./demos/STM32_Smart_Washing_Machine_demo_800_480/README.md)   |
+
 
 
 2. Useful Links
