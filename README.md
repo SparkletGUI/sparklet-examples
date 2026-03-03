@@ -16,6 +16,7 @@ This repository provides ready-to-use UI demo projects and resources to help dev
 | Smart Thermostat                  | STM32          | Smart Thermostat demo             | [View README](./demos/STM32_Smart_Thermostat_demo_800_480/README.md)        |
 | Smart Washing Machine             | STM32          | Smart Washing Machine demo        | [View README](./demos/STM32_Smart_Washing_Machine_demo_800_480/README.md)   |
 | Smart Refrigerator                | STM32          | Smart Refrigerator demo           | [View README](./demos/STM32_Smart_Refrigerator_demo_800_480/README.md)      |
+| Smart Door Lock System            | Renesas RA8D1  | Smart Door Lock demo              | [View README](./demos/RA8D1_Smart_Door_Lock_demo_800_480/README.md)         |
 
 
 
